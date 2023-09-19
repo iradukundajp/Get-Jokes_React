@@ -1,0 +1,30 @@
+/* JokeContainer.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 180px;
+  }
+  
+  .btn-wrapper {
+    margin-bottom: 20px;
+  }
+  
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .error {
+    color: red;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  /* You can add additional styling as needed */
+  

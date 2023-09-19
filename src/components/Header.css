@@ -1,0 +1,20 @@
+header {
+    color: #0adc49;
+    background-color: azure;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    padding: 20px;
+    position: sticky; /* Make the header stick to the top */
+    top: 0; /* Stick to the top of the viewport */
+    z-index: 100; /* Ensure it's above other content */
+  }
+  
+  header h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 0;
+    width: fit-content; /* Set width to content width */
+    margin: 0 auto; /* Center-align the header */
+  }
+  
